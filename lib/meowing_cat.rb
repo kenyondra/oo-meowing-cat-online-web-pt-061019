@@ -5,4 +5,5 @@ end
 
 class Cat
   def name
+    @name
     

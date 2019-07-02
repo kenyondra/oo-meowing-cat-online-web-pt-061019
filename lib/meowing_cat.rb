@@ -4,4 +4,4 @@ class Cat
 end
 
 class Cat
-  
+  def

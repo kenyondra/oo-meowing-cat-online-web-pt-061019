@@ -7,4 +7,5 @@ class Cat
   def name
     @name
     
-  def name=(cat)
+  def name=(cat_name)
+    

@@ -11,4 +11,5 @@ class Cat
     @name = cat_name
   end
   
-  
+  def meow
+    

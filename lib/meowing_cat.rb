@@ -8,4 +8,5 @@ class Cat
     @name
     
   def name=(cat_name)
-    @name = 
+    @name = cat_name
+    

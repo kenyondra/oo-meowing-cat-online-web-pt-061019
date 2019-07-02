@@ -3,4 +3,5 @@ class Cat
   
 end
 
-
+class Cat
+  

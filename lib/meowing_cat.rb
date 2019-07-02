@@ -7,4 +7,4 @@ class Cat
   def name
     @name
     
-    
+  def 
